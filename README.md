@@ -13,8 +13,11 @@
 - Listado del grupo con una breve descripción de cada uno
   
   Ian :
+  
   Julian :
+  
   Wal : 
+  
   Jesus :
 
 - Link del tablero de trabajo en donde se encuentran trabajando: 

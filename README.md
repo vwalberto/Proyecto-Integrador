@@ -14,7 +14,7 @@
   
   Ian :
   
-  Julian :
+  Julian : 24 años, estudiante de Ciencias de la Atmosfera en la UBA, apasionante del futbol y de la música. Me meti en Digital House para adquirir más conocimientos y entrar en el rubro de IT.
   
   Wal : 
   

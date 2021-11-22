@@ -6,7 +6,7 @@
 
 - Publico objetivo 
   
-  Cualquier persona que necesite maquetas, accesorios, bocetos de productos o cualquier otro con con una base, altura y longitud de 100 cm
+  Cualquier persona que necesite maquetas, accesorios, bocetos de productos o cualquier otro producto que el cliente desee. El tamaño de los productos se verán limitados por el tamaño de las impresoras
 
 - Listado de 5 páginas referentes en las que se basa su proyecto
 

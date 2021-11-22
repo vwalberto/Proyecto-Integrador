@@ -2,7 +2,7 @@
 
 - Temática y descripción del sitio
   
-  Productos de impresion 3D, predeterminados o segun deseo del cliente
+  Productos de impresion 3D, predeterminados o segun deseo del cliente. Se ofrecerá tanto un servicio y un producto ya sea para productos propios del sitio o productos que el cliente quiera imprimir alquilando una de las impresoras 3D.
 
 - Publico objetivo 
   
